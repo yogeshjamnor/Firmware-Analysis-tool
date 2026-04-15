@@ -178,5 +178,7 @@ MIT License (or specify your license)
 
 If you find this useful, consider giving the repo a star ⭐
 
+---
 ##img
-assets/image.png
+
+ <img src="logo.jpg" alt="Profile Banner" width="100%" />
