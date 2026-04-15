@@ -181,4 +181,9 @@ If you find this useful, consider giving the repo a star ⭐
 ---
 ##img
 
+<h2> Extract Payload.bin/Super.img</h2>
  <img src="/assets/image.png" alt="Profile Banner" width="100%" />
+ <h2> mount .img</h2>
+ <img src="/assets/mount.png" alt="Profile Banner" width="100%" />
+ <h2> analysis any file  .so , libs  read only</h2>
+ <img src="/assets/analysis.png" alt="Profile Banner" width="100%" />
