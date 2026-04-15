@@ -181,4 +181,4 @@ If you find this useful, consider giving the repo a star ⭐
 ---
 ##img
 
- <img src="logo.jpg" alt="Profile Banner" width="100%" />
+ <img src="/assets/image.png" alt="Profile Banner" width="100%" />
